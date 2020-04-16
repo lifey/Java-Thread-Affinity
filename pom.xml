@@ -79,7 +79,7 @@
                     <!-- TODO make git remember that the file should be executable -->
                     <plugin>
                         <artifactId>maven-antrun-plugin</artifactId>
-                        <version>1.7</version>
+                        <version>3.0.0</version>
                         <executions>
                             <execution>
                                 <id>build-native</id>
